@@ -1,6 +1,13 @@
+![Parking Garage Management System](assets/se_image.png)
+
+
+
+
+
+
 🚗 Parking Garage Management System
 
-Software Engineering – Project 1
+
 
 📌 Overview
 
